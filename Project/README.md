@@ -1,2 +1,2 @@
-# Automatic Hand Washer:
+# Automatic Hand Sanitizer
 
