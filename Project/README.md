@@ -1,2 +1,2 @@
-# Automated Hand Sanitizer System
+# Automated Hand Sanitizing System
 
