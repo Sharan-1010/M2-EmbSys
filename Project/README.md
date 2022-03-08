@@ -12,3 +12,18 @@ ___
 ## Codiga Grade:
 ![Codiga Grade](https://api.codiga.io/project/31734/status/svg)
 
+  ## Folder Structure
+|  S. No | Folder | Description |
+| --  |--|--|
+|1 |1_Requirements|SWOT Analysis, 4W's and 1H, High Level and Low Level Requirements |
+   |2|2_Architecture|Behavioural and Structural Diagram |
+   |3|3_Implementation|Source Code|
+   |4|4_Test_plan|High Level Test Plan and Low Level Test Plans|
+   |5|5_Report|Overall Report of the Project|
+   ___
+   
+   ## Contributors List and Summary
+   |PS NO.|NAME|Project|
+   |--|--|--| 
+   |99007629|Udhaya Sharan B| Automated Hand Sanitizing System|
+
