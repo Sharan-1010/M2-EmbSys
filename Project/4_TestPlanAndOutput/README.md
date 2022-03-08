@@ -1,6 +1,6 @@
 ﻿# Test Plan:
 
-#l# High Level Test Plan:
+## High Level Test Plan:
 |Test ID | Description| Expected O/P| Actual O/P  | Type of Test |
 |-- |-- |--|--|--|
 |HLT1| Sensing Human Hands |Sensing |Success |Requirement Based|
