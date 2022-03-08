@@ -19,7 +19,9 @@ ___
    |2|2_Architecture|Behavioural and Structural Diagram |
    |3|3_Implementation|Source Code|
    |4|4_Testplan|High Level Test Plan and Low Level Test Plans|
-   |5|5_Report|Overall Report of the Project|
+   |5|5_Images and Videos| Image and Video of the project|
+   |6|6_Application|Application of the system|
+   |7|7_Report|Overall Report of the Project|
    ___
    
    ## Contributors List and Summary
