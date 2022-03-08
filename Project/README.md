@@ -24,8 +24,8 @@ ___
    |7|7_Report|Overall Report of the Project|
    ___
    
-   ## Contributors List and Summary
-   |PS NO.|NAME|Project|
-   |--|--|--| 
-   |99007629|Udhaya Sharan B| Automated Hand Sanitizing System|
+   ## Project Done By:
+   |PS NO.|NAME|
+   |--|--| 
+   |99007629|Udhaya Sharan | 
 
