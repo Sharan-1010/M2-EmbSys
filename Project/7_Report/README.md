@@ -3,23 +3,24 @@
  |S. No|Contents|
  |--|--|
  |1.|Automated Hand Sanitizing System|
- |1.1|Abstract|
- |1.2|Features|
- |1.3|SWOT analysis|
- |1.4|4W's and 1H|
+ |1.1.|Abstract|
+ |1.2.|Features|
+ |1.3.|SWOT analysis|
+ |1.4.|4W's and 1H|
  |2.|Requirements|
- |2.1|High Level Requirements|
- |2.2|Low Level Requirements|
+ |2.1.|High Level Requirements|
+ |2.2.|Low Level Requirements|
  |3.|Block Diagram and Explanation|
- |3.1|Block Diagram|
- |3.2|Explanation|
+ |3.1.|Block Diagram|
+ |3.2.|Explanation|
  |4.|Architecture|
- |4.1|Behavioural Diagram|
- |4.2|Structural Diagram|
+ |4.1.|Behavioural Diagram|
+ |4.2.|Structural Diagram|
  |5.|Testplan and Output|
- |5.1|High Level Testplan|
- |5.2|Low Level Testplan|
- |6.|Applications|
+ |5.1.|High Level Testplan|
+ |5.2.|Low Level Testplan|
+ |6.| Applications |
+ 
  ---
  ## 1. Automated Hand Sanitizing System
  ## 1.1.  Abstract:
