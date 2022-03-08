@@ -10,13 +10,13 @@ ___
 1. Needs power supply frequently.
 2. Usage of water may increase.
 3.  Water may affect the circuit.
-## Opportunites:
+## Opportunities:
 1. They have greater accuracy than any other methods of sanitizing the hands.
 2. Ultrasonic sensors are easy to use and not harm to anyone.
 3. This system can be used any buildings to aviod germs and diseases.
 ## Threats:
 1. Limited testing distance of hands.
-2. Inflexiable scanning methods.
+2. Inflexible scanning methods.
 3. The system may get damaged to water.
 ___
 ## 4W's and 1H:
